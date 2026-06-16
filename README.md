@@ -12,9 +12,13 @@ Como seu caderno ainda não possui documentos, o NotebookLM funciona melhor quan
 
 Fontes:
 https://repositorio.enap.gov.br/handle/1/2661
+
 https://www.revistaub.com/index.php/RUB/article/view/265
+
 https://meuartigo.brasilescola.uol.com.br/administracao/a-produtividade-e-a-qualidade-de-vida-nos-ambientes-de-trabalho.htm
+
 https://vitalwork.com.br/qualidade-de-vida-no-trabalho-eleva-a-produtividade/
+
 https://periodicorease.pro.br/rease/article/view/27028
 
 Promp 2 Crie um Caderno com um resumo estruturado sobre esse tema Trabalho, Produtividade e Qualidade de vida nas empresas citando os pontos importantes e desafios e propondo solucoes para melhorar esse ambiente nas empresas
