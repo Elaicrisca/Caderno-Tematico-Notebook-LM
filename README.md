@@ -49,8 +49,13 @@ Produtividade Saudável: Conceito que busca o alinhamento entre o desempenho das
 Qualidade de Vida no Trabalho (QVT): Estratégia organizacional que surgiu para humanizar o trabalho e que atua na preservação da saúde física e mental dos colaboradores, reduzindo o estresse e promovendo o equilíbrio entre a vida pessoal e profissional
 .
 Richard Walton: Pesquisador pioneiro que estabeleceu oito categorias essenciais para avaliar a QVT, incluindo remuneração justa, segurança no emprego e a relevância social do trabalho
-.
+
 Síndrome de Burnout: Distúrbio emocional resultante de estresse crônico no ambiente de trabalho, sendo um dos principais impactos negativos da ausência de políticas de QVT
 .
-Este glossário reforça que a produtividade moderna não é sobre trabalhar mais, mas sobre trabalhar melhor, em ambientes que respeitem a integridade física e psicológica do trabalhador
-.
+Este glossário reforça que a produtividade moderna não é sobre trabalhar mais, mas sobre trabalhar melhor, em ambientes que respeitem a integridade física e psicológica do trabalhador.
+
+Observação Final: Encontrei dificuldade para iniciar os prompts e fui tentando aprimorar. Poderia ter acrescentado mais prompts e extraido um trabalho de pesquisa maior, porem ainda estou iniciando nessa meio e preferi finalizar o trabalho por aqui.
+
+https://notebooklm.google.com/notebook/aedb27ad-ae21-440e-b55a-9fea243f2b39/preview
+
+
